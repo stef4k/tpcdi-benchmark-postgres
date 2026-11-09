@@ -2,6 +2,7 @@
 This proyect aims to perform and improve the TPC-DI benchmark in PostgreSQL for the class Data Warehouses of the Erasmus Mundus Masters program BDMA. In this README.md file we will explain in detail how to set up and run the proyect. This process should be pretty straitfordward since we have make a big effort on making it easy for every operating system.
 
  - You can find the final result of our test in our [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTZmNTJmZDUtOGE1Mi00MGQyLWEwNWQtMjEyZjRjNGM2OTU1IiwidCI6ImYxMTZkNWYzLTk1NjEtNGIzZi1iNjc4LTQwZTMyNjk4ZTJjMSJ9&pageName=8f82875a2358e0780243)
+ - You can find the final report here: [Final Report TPC-DI](https://github.com/stef4k/tpcdi-benchmark-postgres/blob/main/TPC_DI_final_report.pdf)
 
 ## REQUIREMENTS
  1. Having Docker installed and running.
